@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @R01z
+- 👋 Hi, I’m Igor Roiz
 - 👀 I’m studying in UFMG
 - 🌱 I’m currently learning Java
 - 📫 How to reach me www.linkedin.com/in/igor-roiz-3046b3125
